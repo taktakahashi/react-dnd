@@ -3,6 +3,7 @@ dist
 lib
 .DS_Store
 .idea
+*.iml
 __site__
 __site_prerender__
 coverage
